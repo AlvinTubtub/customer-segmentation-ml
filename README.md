@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {\rtf1\ansi\ansicpg1252\cocoartf2870
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;\f2\fmodern\fcharset0 Courier;
 \f3\fnil\fcharset0 Menlo-Regular;\f4\froman\fcharset0 TimesNewRomanPSMT;}
@@ -416,3 +417,7 @@ GitHub:\uc0\u8232 {\field{\*\fldinst{HYPERLINK "https://github.com/AlvinTubtub?u
 
 \f1\b0\fs24 \cf0 This project is open-source and available under the MIT License.\
 }
+=======
+# customer-segmentation-ml
+Customer segmentation and behavior analysis using Machine Learning, K-Means clustering, and data visualization techniques in Python.
+>>>>>>> 1cb069b0d90eb31a0903211654d73602fc434de8
